@@ -15,7 +15,7 @@ let name = await conn.getName(m.sender)
 let str = `╭─「 Bot Tiburón🦈 」
 ║❥Hola, ${name}! Espero que tengas un lindo día o noche!!
 ║
-║❥Creador del Bot: 
+║❥Creador del Bot: Riveros Santino
 ║
 ║❥Tu SN es: 
 ║
@@ -31,14 +31,14 @@ let str = `╭─「 Bot Tiburón🦈 」
 ║
 ║❥Envia ¨/serbot¨ para tener el bot en tu número (no disponible por el momento)
 ║
-║❥Si quieres ayudar a mejorar el bot, puedes donar
+║❥Si estas sburrido comele a la paki te tu amigo
 ║
-║❥Paypal: http://paypal.me/DorratBotOficial
+║
 ║
 ║❥Envia los comandos sin * * ¨ ¨ ( )
 ║ 
 ╰────
-*Bot Tiburón🦈*
+*Bot Tiburón By SR 🦈*
 `
  await  conn.sendMessage(m.chat,{ image:{ url:"https://telegra.ph/file/d675b0f7778b8284067d5.jpg", }, caption: str,  
  contextInfo: { mentionedJid: [m.sender], externalAdReply: { title: `MENU - COMPLETO`,  
