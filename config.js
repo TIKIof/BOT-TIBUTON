@@ -16,8 +16,8 @@ global.owner = [['584125778026']
 //[número, Nombre de creador/dueño?, Modo programador?]
 ] //Pon tu número aquí 
 global.smods = []
-global.mods = ['595983186566'] // números de moderadores aquí
-global.prems = ['595983186566'] // numeros premium aquí 
+global.mods = ['595994110242'] // números de moderadores aquí
+global.prems = ['595992110242'] // numeros premium aquí 
 global.APIs = { // Sitios de APIs
   // nombre: 'https://sitioweb'
   nrtm: 'https://nurutomo.herokuapp.com',
